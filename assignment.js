@@ -40,7 +40,7 @@ console.log(totalCost);
 function hotelCost(day) {
     var ammountOfTaka = 0;
     if (day <0){
-        ammountOfTaka = "Sorry you didn't write the number correctly"
+        ammountOfTaka = "Sorry you did not enter the correct number."
     }
     else if (day <= 10) {
         ammountOfTaka = day * 100;
