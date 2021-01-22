@@ -80,6 +80,3 @@ function megaFriend(friends) {
 var friends = ['Mehedy', 'Hassan', 'Eaysin', 'Rohiz', 'Salauddin', 'Sakib', 'Rokib'];
 var result = megaFriend(friends)
 console.log(result);
-
-
-
